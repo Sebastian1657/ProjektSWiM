@@ -10,7 +10,7 @@ Repozytorium zawiera kod, dokumentację oraz materiały projektowe.
 
 ## 📌 Opis projektu
 
-Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pomocą mikrokontrolera STM32. Pojazd porusza się w trybie półautomatycznym lub automatycznym, omija przeszkody i/lub śledzi linię. Komunikacja z użytkownikiem odbywa się przez UART (Bluetooth lub przewodowo).
+Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pomocą mikrokontrolera STM32. Pojazd porusza się w trybie półautomatycznym lub automatycznym, omija przeszkody i/lub śledzi linię. Komunikacja z użytkownikiem odbywa się przez UART (Bluetooth).
 
 ---
 
@@ -21,9 +21,10 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 - **Programowanie:** C (HAL / LL)
 - **Sensory:**
   - Sensory optyczne (IR)
-- **Zasilanie:** Akumulator Li-Ion
+  - Sensory ultradźwiękowe
+- **Zasilanie:** Akumulator NiMH 9.6V
 - **Sterownik silników:** np. L298N
-- **Komunikacja:** UART Bluetooth HC-05
+- **Komunikacja:** UART Bluetooth HM-10
 
 ---
 
@@ -32,8 +33,8 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 - ✅ Napęd sterowany przez PWM z użyciem Timerów
 - ✅ Obsługa sensorów ultradźwiękowych (pomiar odległości)
 - ✅ Odczyt wartości z sensorów IR (linia / przeszkody) przy użyciu ADC
-- ✅ Detekcja kolizji i unikanie przeszkód
-- ✅ Sterowanie ruchem przez UART (komendy tekstowe)
+- ✅ Detekcja kolizji i unikanie przeszkód przy użyciu sensorów ultradźwiękowych
+- ✅ Sterowanie ruchem przez UART (sterowanie zdalne, poprzez polecenia oraz niezależna jazda)
 - ✅ Zasilanie bateryjne – pełna autonomia
 - ✅ Regularne wersjonowanie kodu (min. 1 commit/tydzień)
 
@@ -79,6 +80,7 @@ Pełna dokumentacja projektu znajduje się w folderze [`Docs/`](./Docs/), w tym:
 - Raport końcowy (PDF)
 - Schematy układów
 - Lista komponentów
+- Raporty z milestonów
 
 ---
 
@@ -102,7 +104,7 @@ _(Tutaj uzupełnij po zakończeniu projektu)_
 
 W razie pytań:
 - Email: _twoj.email@uczelnia.edu.pl_
-- GitHub: [Twoja nazwa użytkownika](https://github.com/TwójProfil)
+- GitHub: https://github.com/Sebastian1657/ProjektSWiM/
 
 ---
 

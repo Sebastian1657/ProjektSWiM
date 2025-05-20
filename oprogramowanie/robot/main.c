@@ -56,17 +56,6 @@ static void MX_TIM3_Init(void);
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
-
-/* USER CODE END 0 */
-
-/**
-  * @brief  The application entry point.
-  * @retval int
-  */
-int main(void)
-{
-
-  /* USER CODE BEGIN 1 */
 	void left(int power, int direction){
 		int offset = 0;
 		if (power!=0) offset = 250;
@@ -190,6 +179,18 @@ int main(void)
 		right(400, 1);
 		HAL_Delay(1000);
 	}
+
+/* USER CODE END 0 */
+
+/**
+  * @brief  The application entry point.
+  * @retval int
+  */
+int main(void)
+{
+
+  /* USER CODE BEGIN 1 */
+
 
   /* USER CODE END 1 */
 

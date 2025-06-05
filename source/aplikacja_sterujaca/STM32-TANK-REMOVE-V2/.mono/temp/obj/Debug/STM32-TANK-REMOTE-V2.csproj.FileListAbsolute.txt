@@ -1,0 +1,9 @@
+D:\Projects\Godot\STM32-TANK-REMOVE-V2\.mono\temp\bin\Debug\STM32-TANK-REMOTE-V2.dll
+D:\Projects\Godot\STM32-TANK-REMOVE-V2\.mono\temp\bin\Debug\STM32-TANK-REMOTE-V2.pdb
+D:\Projects\Godot\STM32-TANK-REMOVE-V2\.mono\temp\obj\Debug\STM32-TANK-REMOTE-V2.csproj.AssemblyReference.cache
+D:\Projects\Godot\STM32-TANK-REMOVE-V2\.mono\temp\obj\Debug\STM32-TANK-REMOTE-V2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Godot\STM32-TANK-REMOVE-V2\.mono\temp\obj\Debug\STM32-TANK-REMOTE-V2.AssemblyInfoInputs.cache
+D:\Projects\Godot\STM32-TANK-REMOVE-V2\.mono\temp\obj\Debug\STM32-TANK-REMOTE-V2.AssemblyInfo.cs
+D:\Projects\Godot\STM32-TANK-REMOVE-V2\.mono\temp\obj\Debug\STM32-TANK-REMOTE-V2.csproj.CoreCompileInputs.cache
+D:\Projects\Godot\STM32-TANK-REMOVE-V2\.mono\temp\obj\Debug\STM32-TANK-REMOTE-V2.dll
+D:\Projects\Godot\STM32-TANK-REMOVE-V2\.mono\temp\obj\Debug\STM32-TANK-REMOTE-V2.pdb

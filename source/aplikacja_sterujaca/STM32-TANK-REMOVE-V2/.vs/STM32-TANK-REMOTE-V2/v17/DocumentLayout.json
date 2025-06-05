@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Godot\\STM32-TANK-REMOVE-V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D879405-A4D9-4960-A167-85B5CB082BD0}|STM32-TANK-REMOTE-V2.csproj|d:\\projects\\godot\\stm32-tank-remove-v2\\source\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D879405-A4D9-4960-A167-85B5CB082BD0}|STM32-TANK-REMOTE-V2.csproj|solutionrelative:source\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D879405-A4D9-4960-A167-85B5CB082BD0}|STM32-TANK-REMOTE-V2.csproj|d:\\projects\\godot\\stm32-tank-remove-v2\\source\\commanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D879405-A4D9-4960-A167-85B5CB082BD0}|STM32-TANK-REMOTE-V2.csproj|solutionrelative:source\\commanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D879405-A4D9-4960-A167-85B5CB082BD0}|STM32-TANK-REMOTE-V2.csproj|d:\\projects\\godot\\stm32-tank-remove-v2\\source\\joystick\\verticaljoystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D879405-A4D9-4960-A167-85B5CB082BD0}|STM32-TANK-REMOTE-V2.csproj|solutionrelative:source\\joystick\\verticaljoystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D879405-A4D9-4960-A167-85B5CB082BD0}|STM32-TANK-REMOTE-V2.csproj|d:\\projects\\godot\\stm32-tank-remove-v2\\source\\joystick\\joystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D879405-A4D9-4960-A167-85B5CB082BD0}|STM32-TANK-REMOTE-V2.csproj|solutionrelative:source\\joystick\\joystick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommandDispatcher.cs",
+              "DocumentMoniker": "D:\\Projects\\Godot\\STM32-TANK-REMOVE-V2\\source\\CommandDispatcher.cs",
+              "RelativeDocumentMoniker": "source\\CommandDispatcher.cs",
+              "ToolTip": "D:\\Projects\\Godot\\STM32-TANK-REMOVE-V2\\source\\CommandDispatcher.cs",
+              "RelativeToolTip": "source\\CommandDispatcher.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAYwJAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:58:25.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\Projects\\Godot\\STM32-TANK-REMOVE-V2\\source\\Main.cs",
+              "RelativeDocumentMoniker": "source\\Main.cs",
+              "ToolTip": "D:\\Projects\\Godot\\STM32-TANK-REMOVE-V2\\source\\Main.cs",
+              "RelativeToolTip": "source\\Main.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:53:41.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Joystick.cs",
+              "DocumentMoniker": "D:\\Projects\\Godot\\STM32-TANK-REMOVE-V2\\source\\joystick\\Joystick.cs",
+              "RelativeDocumentMoniker": "source\\joystick\\Joystick.cs",
+              "ToolTip": "D:\\Projects\\Godot\\STM32-TANK-REMOVE-V2\\source\\joystick\\Joystick.cs",
+              "RelativeToolTip": "source\\joystick\\Joystick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:44:36.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VerticalJoystick.cs",
+              "DocumentMoniker": "D:\\Projects\\Godot\\STM32-TANK-REMOVE-V2\\source\\joystick\\VerticalJoystick.cs",
+              "RelativeDocumentMoniker": "source\\joystick\\VerticalJoystick.cs",
+              "ToolTip": "D:\\Projects\\Godot\\STM32-TANK-REMOVE-V2\\source\\joystick\\VerticalJoystick.cs",
+              "RelativeToolTip": "source\\joystick\\VerticalJoystick.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T14:44:26.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

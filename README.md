@@ -69,14 +69,13 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 ## 📸 Demo i zdjęcia
 
-- Zdjęcia pojazdu: [`/Media/photos/`](./Media/photos/)
-- Nagranie testów: [Demo Video](#) *(link do YouTube lub Dysku Google)*
+- Zdjęcia pojazdu: [`/media/photos/`](./media/photos/)
 
 ---
 
 ## 📄 Dokumentacja
 
-Pełna dokumentacja projektu znajduje się w folderze [`Docs/`](./Docs/), w tym:
+Pełna dokumentacja projektu znajduje się w folderze [`docs/`](./docs/), w tym:
 - Raport końcowy (PDF)
 - Schematy układów
 - Lista komponentów
@@ -96,16 +95,15 @@ Pełna dokumentacja projektu znajduje się w folderze [`Docs/`](./Docs/), w tym:
 
 ## 🧠 Wnioski
 
-_(Tutaj uzupełnij po zakończeniu projektu)_
+Roboty są super!
 
 ---
 
 ## 📬 Kontakt
 
 W razie pytań:
-- Email: _twoj.email@uczelnia.edu.pl_
-- GitHub: https://github.com/Sebastian1657/ProjektSWiM/
-
+- GitHub: https://github.com/Sebastian1657
+- GitHub: https://github.com/maczkowski-bartlomiej
 ---
 
 **Licencja:** MIT  

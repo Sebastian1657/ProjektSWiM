@@ -1,0 +1,9 @@
+D:\Projects\Godot\eh\.mono\temp\obj\Debug\Eh.csproj.AssemblyReference.cache
+D:\Projects\Godot\eh\.mono\temp\obj\Debug\Eh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Godot\eh\.mono\temp\obj\Debug\Eh.AssemblyInfoInputs.cache
+D:\Projects\Godot\eh\.mono\temp\obj\Debug\Eh.AssemblyInfo.cs
+D:\Projects\Godot\eh\.mono\temp\obj\Debug\Eh.csproj.CoreCompileInputs.cache
+D:\Projects\Godot\eh\.mono\temp\bin\Debug\Eh.dll
+D:\Projects\Godot\eh\.mono\temp\bin\Debug\Eh.pdb
+D:\Projects\Godot\eh\.mono\temp\obj\Debug\Eh.dll
+D:\Projects\Godot\eh\.mono\temp\obj\Debug\Eh.pdb

@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = STM32TANKREMOTEV2
+build_property.ProjectDir = D:\Projects\Godot\STM32-TANK-REMOVE-V2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

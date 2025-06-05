@@ -25,6 +25,7 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 - **Zasilanie:** Akumulator NiMH 9.6V
 - **Sterownik silników:** np. L298N
 - **Komunikacja:** UART Bluetooth HM-10
+- **Sterowanie zdalne:** Godot, C#, Java
 
 ---
 
@@ -47,13 +48,35 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 ## 🔌 Komendy UART
 
-| Komenda | Opis                    |
-|--------:|-------------------------|
-| `START` | Uruchamia pojazd       |
-| `STOP`  | Zatrzymuje pojazd      |
-| `LEFT`  | Skręt w lewo           |
-| `RIGHT` | Skręt w prawo          |
-| `DIST?` | Zwraca odczyt z HC-SR04 |
+### 🎮 Tryby pracy
+
+| Komenda | Opis                                      |
+|--------:|-------------------------------------------|
+| `MM`    | Tryb manualny (zdalne sterowanie)         |
+| `ML`    | Tryb podążania za linią                   |
+| `MA`    | Tryb autonomicznego omijania przeszkód    |
+
+### 🚗 Sterowanie ruchem
+
+| Komenda | Opis                                      |
+|--------:|-------------------------------------------|
+| `D`     | Ruszaj do przodu                          |
+| `DS`    | Zatrzymaj ruch                            |
+
+### 🎯 Sterowanie wieżyczką
+
+| Komenda | Opis                                      |
+|--------:|-------------------------------------------|
+| `S`     | Strzał                                     |
+| `T`     | Ruch wieżyczki                             |
+| `TS`    | Zatrzymaj ruch wieżyczki                  |
+
+### ⚡ Tryby prędkości
+
+| Komenda | Opis                                      |
+|--------:|-------------------------------------------|
+| `MDS`   | Tryb wolny                                |
+| `MDF`   | Tryb szybki                               |
 
 ---
 
@@ -104,6 +127,7 @@ Roboty są super!
 W razie pytań:
 - GitHub: https://github.com/Sebastian1657
 - GitHub: https://github.com/maczkowski-bartlomiej
+- GitHub: https://github.com/Matieu92
 ---
 
 **Licencja:** MIT  

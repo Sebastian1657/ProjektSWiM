@@ -55,16 +55,16 @@ Celem projektu jest opracowanie modelu autonomicznego pojazdu sterowanego za pom
 
 | Komenda | Opis                                      |
 |--------:|-------------------------------------------|
-| `D`     | Ruszaj do przodu                          |
-| `DS`    | Zatrzymaj ruch                            |
+| `D`     | Jedź                                      |
+| `DS`    | Stój                                      |
 
 ### 🎯 Sterowanie wieżyczką
 
 | Komenda | Opis                                      |
 |--------:|-------------------------------------------|
-| `S`     | Strzał                                     |
-| `T`     | Ruch wieżyczki                             |
-| `TS`    | Zatrzymaj ruch wieżyczki                  |
+| `S`     | Strzał                                    |
+| `T`     | Obracaj wieżyczke                         |
+| `TS`    | Zatrzymaj obrót wieżyczki                 |
 
 ### ⚡ Tryby prędkości
 
